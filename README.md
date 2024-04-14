@@ -19,11 +19,18 @@ Minimal NodeJS with Express API starter boilerplate. Includes TypeScript, Jest, 
 
 ## Project structure
 
--- src
-   -- config
-   -- controllers
-     -- middlewares
-   -- models
-   -- tests
-   -- index.ts
+Proyect comes with a config structure to setup environment variables and an error middleware handler.
 
+.
+├── src
+├── config
+|  └── config.ts
+|  └── types.ts
+|  └── utils.ts
+├──controllers
+|  └── middlewares
+|  └── routes.ts
+├── models
+|   └── error.ts
+├── tests
+├── index.ts
