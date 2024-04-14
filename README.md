@@ -24,16 +24,15 @@ Proyect comes with a config structure to setup environment variables and an erro
 ```
 .  
 ├── src
-|  └── config  
-|    └── config.ts  
-|    └── types.ts  
-|    └── utils.ts  
-|  └── controllers  
-|    └── middlewares  
-|    └── routes.ts  
-|  └── models  
-|    └── error.ts  
-|  └── tests  
-|  └── index.ts  
-
+  └── config  
+  |  └── config.ts  
+  |  └── types.ts  
+  |  └── utils.ts  
+  └── controllers  
+  |  └── middlewares  
+  |  └── routes.ts  
+  └── models  
+  |  └── error.ts  
+  └── tests  
+  └── index.ts  
 ```
