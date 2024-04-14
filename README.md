@@ -21,7 +21,7 @@ Minimal NodeJS with Express API starter boilerplate. Includes TypeScript, Jest, 
 
 Proyect comes with a config structure to setup environment variables and an error middleware handler.
 
-.
+`.
 ├── src
 ├── config
 |  └── config.ts
@@ -34,3 +34,4 @@ Proyect comes with a config structure to setup environment variables and an erro
 |   └── error.ts
 ├── tests
 ├── index.ts
+`
